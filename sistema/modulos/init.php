@@ -1,4 +1,4 @@
-<title>Comunika - Acessoria, comunicação, pesquisas e eventos. </title>
+<title>Comunika - Sistema de realização de pesquisas. </title>
 		
 <!-- metas -->
 <meta charset="utf-8">
